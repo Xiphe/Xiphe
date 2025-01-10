@@ -1,7 +1,5 @@
-### Hi! I'm Hannes. 👋
+# Move Deliberately, Fix Things.
 
-I'm a engineer and coach for TypeScript, React and Testing.  
-I share my lernings and workflows though [:octocat: open source projects](https://github.com/Xiphe?tab=repositories)
-and [📖 blog posts](https://xiphe.net/blog/testing/component-design-testing.html?ref=github_profile).
+I'm available to turn great ideas into reality, with teams that care, for people we honor.
 
-In another universe i'm a live streaming [👩‍🎤 singer, songwriter and producer](https://hannesdiem.de/linktree/?ref=github_profile) traveling in my [🚌 oldtimer campervan](https://www.instagram.com/p/B5kNNy5I_Hw/) spending most of my time [🏄‍♀️ kite surfing](https://www.instagram.com/p/Btjp_-1D9wX/). 
+[Schedule a call](mailto:colab@hannesdiercks.de?subject=Collaboration%20Inquiry&body=Hi%20Hannes%2C%0A%0AI%20am%20interested%20in%20discussing%20how%20we%20might%20work%20together.%0AHow%20about%20%5Binsert%20date%20and%20time%5D%20for%20a%20quick%20call%3F%0A%0ABest%2C%0A%5BYour%20Name%5D) &bull; [Visit hannesdiercks.de](https://hannesdiercks.de)
